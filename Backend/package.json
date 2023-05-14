@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "init": "^0.1.2"
+  },
+  "scripts": {
+    "start": "node main.js"
   }
 }
