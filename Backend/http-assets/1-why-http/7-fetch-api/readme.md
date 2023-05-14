@@ -19,8 +19,3 @@ We'll go in-depth on the various things happening in this standard `fetch` call 
 * The `await` keyword tells JavaScript to wait until the request comes back from the server before continuing
 * `response.json()` converts the response data from the server into a JavaScript object
 
-## Assignment
-
-Fix the bug in the code.
-
-The problem is that we aren't waiting for the response to physically come back across the internet connection before continuing with our code.
